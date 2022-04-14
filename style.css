@@ -54,4 +54,5 @@ button {
   font-size: 0.65rem;
   font-weight: bold;
   border-radius: 0.3rem;
+  cursor: pointer;
 }
